@@ -3,7 +3,12 @@ dialograph documentation - docs.dialograph.com
 
 
 
-[Dgraph Cloud Quick Start - Dgraphcloud](https://dgraph.io/docs/dgraphcloud/cloud-quick-start/)
+## tools [Dgraph Cloud Quick Start - Dgraphcloud](https://dgraph.io/docs/dgraphcloud/cloud-quick-start/)
+
+
+
++ [Vega Editor](https://vega.github.io/editor/#/custom/vega)
++ [Dgraph Cloud](https://cloud.dgraph.io/_/explorer)
 
 > ## The Schema
 > 
@@ -23,3 +28,5 @@ dialograph documentation - docs.dialograph.com
 >       name: String @search(by: [exact])
 >       tasks: [Task] @hasInverse(field: user)
 >     }
+
+
