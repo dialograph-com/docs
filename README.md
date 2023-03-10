@@ -1,6 +1,10 @@
 # docs
 dialograph documentation - docs.dialograph.com
 
+## definition 
+
++ [Graph Node - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/graph-node)
+
 [Graph (discrete mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
 
 > In [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics "Discrete mathematics"), and more specifically in [graph theory](https://en.wikipedia.org/wiki/Graph_theory "Graph theory"), a **graph** is a structure amounting to a [set](https://en.wikipedia.org/wiki/Set_(mathematics) "Set (mathematics)") of objects in which some pairs of the objects are in some sense "related". The objects correspond to mathematical abstractions called _[vertices](https://en.wikipedia.org/wiki/Vertex_(graph_theory) "Vertex (graph theory)")_ (also called _nodes_ or _points_) and each of the related pairs of vertices is called an _edge_ (also called _link_ or _line_).[\[1\]](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#cite_note-:0-1) Typically, a graph is depicted in [diagrammatic form](https://en.wikipedia.org/wiki/Diagrammatic_form "Diagrammatic form") as a set of dots or circles for the vertices, joined by lines or curves for the edges. Graphs are one of the objects of study in [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics "Discrete mathematics").
