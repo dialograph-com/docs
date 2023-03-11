@@ -1,5 +1,4 @@
-# docs
-dialograph documentation - docs.dialograph.com
+# docs - dialograph documentation - docs.dialograph.com
 
 
 ## another tools
@@ -42,6 +41,17 @@ dialograph documentation - docs.dialograph.com
 
 
 ![image](https://user-images.githubusercontent.com/5669657/224475338-8e624fc1-fb95-4eb3-a1a7-4d8c48e2b782.png)
+
+
+
+
+## Tutorials
+
+
++ [Dgraph Graph Database in 100 Seconds - YouTube](https://www.youtube.com/watch?v=OzDG68VvPxY)
++ [SurrealDB in 100 Seconds - YouTube](https://www.youtube.com/watch?v=C7WFwgDRStM)
++ [Fireship - YouTube](https://www.youtube.com/@Fireship)
+
 
 
 
